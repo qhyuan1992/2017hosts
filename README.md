@@ -57,7 +57,7 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 
 * **youtube**
 发布时测试功能98%正常
-<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/img/img/QQ%E6%88%AA%E5%9B%BE20170121230113.png"></a>
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/QQ%E6%88%AA%E5%9B%BE20170121230113.png"></a>
 
 * **Tumblr**
 发布时测试功能：50%正常
@@ -65,7 +65,7 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 
 * **Google**
 发布时测试功能100%正常
-<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/img/1.png"></a>
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/1.png"></a>
 
 * **Facebook**
 发布时测试功能99%正常
