@@ -2,6 +2,7 @@
 <h4>1.6月底左右将出ipv6基本版Hosts，仅仅保证少数网站访问。</h4>
 <h2>友情提示：</h2>
 <h4>1.因为郭文贵事件原因，各地运营商开始干扰https的twitter连接，遇到打不开这个问题你可以使用赛风暂时翻墙上推。</h4>
+<h4>2.因为各地运营商网络状况不一样，所以最近进行了多运营商调整，速度可能会有所提升吧。</h4>
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966"></a>
 提示：所有网站均需要以https方式打开，置顶提醒！<br />
 tumblr网页版播放视频都是从用户的子域名获取文件的，所以没法播放。<br />
@@ -63,8 +64,10 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 发布时测试功能98%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/QQ%E6%88%AA%E5%9B%BE20170121230113.png"></a>
 
-youtube看视频速度：
+youtube看视频速度(联通）：
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/100.PNG"></a>
+youtube看视频速度（移动专版hosts，位于移动网测试）：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/cnmb.PNG"></a>
 
 * **Tumblr**
 发布时测试功能：50%正常
