@@ -57,11 +57,11 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 
 ### 手机
 
-* 客户端可用：play市场，Google搜索，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr,twitter,facebook,instragram,duckduckgo,dropbox（...更多20个）
+* 客户端可用：play市场，Google搜索，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr,twitter,facebook,instragram,duckduckgo,dropbox（等等）
 * 客户端不可用：Gmail,telegram（仅两个）
 * 功能不可用：查找设备（安卓）【因为纯UDP流量过不了墙，所以无法使用】
-* 网页可用：100%可用
-* 有瑕疵：line google新闻 还有各类googleapps的帮助页面打不开
+* 网页可用：100%可用。
+* 有瑕疵：line google新闻 还有各类googleapps的帮助页面打不开。
   
 ### 电脑
 
