@@ -62,8 +62,13 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 
 ### 手机
 
-* 客户端可用：play市场，Google搜索，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr,twitter,facebook,instragram,duckduckgo,dropbox（等等）
-* 客户端不可用：Gmail,telegram（仅两个）
+* 客户端可用：<br />
+play市场，Google搜索，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr,twitter,facebook,instragram,duckduckgo,dropbox（等等）
+* 客户端不可用：<br />
+Gmail：<br />
+不可用原因：没有可用stmp服务器，并且gmail不支持通过简单代理使用。
+telegram：<br />
+不可用原因：telegram客户端使用ip地址方式直接连接服务器（并非域名），其所使用的ip地址在国内已被屏蔽。
 * 功能不可用：查找设备（安卓）【因为纯UDP流量过不了墙，所以无法使用】
 * 网页可用：100%可用。
 * 有瑕疵：line google新闻 还有各类googleapps的帮助页面打不开。
