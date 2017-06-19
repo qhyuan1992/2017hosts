@@ -79,7 +79,7 @@ telegram：<br />
 
 * **youtube看视频速度(联通）**：
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/100.PNG"></a>
-* **youtube看视频速度（移动专版hosts，位于移动网测试）**：
+* **youtube看视频速度（位于移动网测试）**：
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/cnmb.PNG"></a>
 
 * **Tumblr**
