@@ -1,5 +1,4 @@
 #Hosts-mobile
-#last-update:2017-6-8
 
 #localhost
 127.0.0.1	localhost
@@ -3349,15 +3348,15 @@
 219.76.4.11	doc-14-cs-docs.googleusercontent.com
 #Googleusercontent
 
-#pinterest start
+#pinterest
 151.101.8.84 www.pinterest.com
 151.101.128.84 pinterest.com
 151.101.8.84 s.pinimg.com
-219.76.4.11 sdk.accountkit.com
+183.91.33.51 sdk.accountkit.com
 23.76.206.147 s-media-cache-ak0.pinimg.com
 103.6.85.35 radar.cedexis.com
 151.101.0.84 analytics.pinterest.com
-#pinterest end
+#pinterest
 
 #CDN
 205.204.104.242 g.alicdn.com
@@ -23847,7 +23846,7 @@
 #Origin
 23.58.236.23 origin.com
 23.58.236.23 www.origin.com
-23.210.202.9 eaassets-a.akamaihd.net
+23.2.16.56 eaassets-a.akamaihd.net
 223.119.236.101 data1.origin.com
 223.119.236.101 data2.origin.com
 223.119.236.101 data3.origin.com
@@ -23858,36 +23857,34 @@
 223.119.236.101 api4.origin.com
 #Origin
 
-#stream
-104.80.124.80 store.steampowered.com
-68.232.45.131 store.edgecast.steamstatic.com
-125.64.134.83 cdn.steamstatic.com.8686c.com
-65.158.122.146 images.akamai.steamusercontent.com
-219.76.10.11 steamcdn-a.akamaihd.net
-219.76.10.11 steamcommunity-a.akamaihd.net
+#Steam Start
+23.15.111.93 store.steampowered.com
+117.18.232.131 store.edgecast.steamstatic.com
+111.62.244.193 cdn.steamstatic.com.8686c.com
+223.119.50.145 images.akamai.steamusercontent.com
+223.119.50.139 steamcdn-a.akamaihd.net
+223.119.50.224 steamcommunity-a.akamaihd.net
 172.230.215.214 steamcommunity.com
-65.158.122.187 cloud-3.steamusercontent.com
-#stream
+223.119.50.210 cloud-3.steamusercontent.com
+#Steam End
 
 #twitch
 184.28.14.199 player.twitch.tv
-219.76.4.11 cvp.twitch.tv
+183.91.33.45 cvp.twitch.tv
 72.52.10.14 api.twich.tv
 35.160.203.255 spade.twitch.tv
 54.186.213.102 countess.twitch.tv 
 184.28.14.199 web-cdn.ttvnw.net
 35.160.205.15 client-event-reporter.twitch.tv
-219.76.4.11 tmi.twitch.tv
+183.91.33.45 tmi.twitch.tv
 35.160.243.102 badges.twitch.tv
 199.9.255.158 spectre.twitch.tv
 104.115.175.211 www.twitch.tv
 35.164.76.59 trowel.twitch.tv
 104.115.175.211 static-cdn.jtvnw.net
-219.76.4.11 0914.global.ssl.fastly.net
+151.101.76.249 0914.global.ssl.fastly.net
 23.218.124.36 s.jtvnw.net
 #twich
-
-
 
 
 #ISSUU
@@ -24169,57 +24166,60 @@
 120.52.72.44 i4.pixiv.net
 #pixiv
 
-#voachinese
-219.76.4.11 voachinese.com
-219.76.4.11 www.voachinese.com
-219.76.4.11  gdb.voanews.com
-219.76.4.11 av.voanews.com
-#voachinese
+#voachinese start
+23.2.16.9 voachinese.com
+23.2.16.9 www.voachinese.com
+104.124.235.124 gdb.voanews.com
+104.124.235.124 av.voanews.com
+#voachinese end
 
 #Nokia
 52.3.37.45 supl.nokia.com
 #Nokia
 
-#openvpn 
-219.76.4.11 www.openvpn.net
-219.76.4.11 openvpn.net
-219.76.4.11 www.privatetunnel.com
-219.76.4.11 privatetunnel.com
-219.76.4.11 swupdate.openvpn.org
-#openvpn
+#openvpn start
+104.20.194.50 www.openvpn.net
+104.20.194.50 openvpn.net
+104.20.35.25 www.privatetunnel.com
+104.20.35.25 privatetunnel.com
+104.24.0.59 swupdate.openvpn.org
+#openvpn end
 
-#expressvpn
-219.76.4.11 expressvpn.com
-219.76.4.11 cdn-images.mailchimp.com
-219.76.4.11 www.expressvpn.com
-#expressvpn
+#expressvpn start
+176.32.94.122 expressvpn.com
+54.192.214.224 cdn-images.mailchimp.com
+176.32.94.122 www.expressvpn.com
+#expressvpn end
 
 #letscorp
-219.76.4.11 www.letscorp.net
-219.76.4.11 letscorp.net
-219.76.4.11 m.letscorp.net
+104.25.92.34 www.letscorp.net
+104.25.92.34 letscorp.net
+104.25.92.34 m.letscorp.net
 #letscorp
 
-#DAJIYUAN start
-218.254.1.15 www.epochtimes.com
-218.254.1.15 epochtimes.com
-218.254.1.15 i.epochtimes.com
-218.254.1.15 ping.chartbeat.net
-218.254.1.15 pixel.quantserve.com
-218.254.1.15 rtd-tm.everesttech.net
-218.254.1.15 x.bidswitch.net
-218.254.1.15 static.chartbeat.net
-218.254.1.15 rules.quantcount.com
-218.254.1.15 bcp.crwdcntrl.net
-218.254.1.15 prebid.districtm.ca
-218.254.1.15 epoch-times-d.openx.net
-218.254.1.15 dt.adsafeprotected.com
-218.254.1.15 ad.crwdcntrl.net
-218.254.1.15 ad.afy11.net
-218.254.1.15 apex.go.sonobi.com
-#DAJIYUAN end
+#DAJIYUAN
+130.211.7.151 www.epochtimes.com
+130.211.7.151 epochtimes.com
+151.139.105.15 i.epochtimes.com
+54.243.45.82 ping.chartbeat.net
+35.186.228.57 tuidang.epochtimes.com
+203.190.124.25 pixel.quantserve.com
+107.21.249.50 rtd-tm.everesttech.net
+35.187.205.99 x.bidswitch.net
+54.192.212.180 rules.quantcount.com
+52.77.166.197 bcp.crwdcntrl.net
+104.20.16.243 prebid.districtm.ca
+173.241.248.220 epoch-times-d.openx.net
+13.113.108.244 dt.adsafeprotected.com
+52.77.178.255 ad.crwdcntrl.net
+74.117.199.102 ad.afy11.net
+72.34.250.78 apex.go.sonobi.com
+107.21.248.242 rtd.tubemogul.com
+107.178.245.188 m.epochtimes.com
+45.79.178.193 auto.epochtimes.com
+#DAJIYUAN
 
-#dcard start
+#dcard
 218.254.1.15 www.dcard.tw
 218.254.1.15 faq.dcard.tw
 218.254.1.15 join.dcard.today
@@ -24234,24 +24234,23 @@
 218.254.1.15 sync.ad-stir.com
 218.254.1.15 adm.shinobi.jp
 218.254.1.15 man.vm5apis.com
-#dcard end
+#dcard
 
-#ntdtv start
-218.254.1.15 www.ntdtv.com
-218.254.1.15 shopping.ntdtv.com
-218.254.1.15 ntdtv.com
-218.254.1.15 www.edinfo.com
-218.254.1.15 edinfo.com
-218.254.1.15 imgs.ntdtv.com
-218.254.1.15 media1.ntdtv.com
-218.254.1.15 media2.ntdtv.com
-218.254.1.15 media3.ntdtv.com
-218.254.1.15 media4.ntdtv.com
-218.254.1.15 media5.ntdtv.com
-218.254.1.15 apex.go.sonobi.com
-218.254.1.15 jwpltx.com
-218.254.1.15 ssl.p.jwpcdn.com
-#ntdtv end
+#ntdtv
+130.211.15.150 www.ntdtv.com
+72.52.81.72 shopping.ntdtv.com
+130.211.15.150 ntdtv.com
+75.126.217.109 m.ntdtv.com
+75.126.17.44 imgs.ntdtv.com
+75.126.16.212 media1.ntdtv.com
+75.126.16.212 media2.ntdtv.com
+75.126.16.212 media3.ntdtv.com
+75.126.16.212 media4.ntdtv.com
+75.126.16.212 media5.ntdtv.com
+72.34.250.78 apex.go.sonobi.com
+52.44.245.158 jwpltx.com
+68.232.45.48 ssl.p.jwpcdn.com
+#ntdtv
 
 #gumroad
 104.20.11.72 gumroad.com
