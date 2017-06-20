@@ -1,10 +1,11 @@
 #### 近期将对hosts进行整理，并且对可以用官方ip的网站全部启用官方ip，youtube等条目将去重以及添加更多地址，以及添加更多社交平台，争取做github上的ipv4版本hosts排行第一。
 #### 为了能让你少费点心，不用每次上网都提心吊胆需要加https，建议在浏览器安装httpseverywhere插件，chrome点此下载：https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et
 <h2>友情提示：</h2>
-<h4><strong>1.因twitter上一些不可描述内容的原因，各地运营商开始干扰https的twitter连接，遇到打不开这个问题你可以使用赛风暂时翻墙上推。</strong></h4>
-<h4>2.最近因为youtube上的一些内容的原因，导致youtube被攻击，随后youtube视频服务器就屏蔽了来源是中国的ip，这就是为什么ipv6下看youtube看不了的原因。</h4>
+<h4><strong>1.因twitter上一些不可描述内容的原因，各地运营商开始干扰https的twitter连接，方式和当年干扰Google是一模一样的，遇到打不开这个问题你可以使用赛风暂时翻墙上推。</strong></h4>
+<h4>2.最近因为youtube上的一些内容的原因，导致youtube被攻击，随后youtube视频服务器就屏蔽了来源是中国的ip，包括中国企业网络的AS，这就是为什么ipv6下看youtube看不了的原因。</h4>
 <h4>3.经过25天的整理测试添加，ipv6hosts终于上线了，不过ipv6hosts部分服务还是没有找到ipv6地址（我尽力了），所以只能用ipv4代替（Twitter、Tumblr、XDA等等），请校园网用户在使用时注意自己的流量。</h4>
 <h4>4.绝大多数网站均需要以https方式打开，置顶提醒！tumblr网页版播放视频都是从用户的子域名获取文件的，这个域名数量大约有几百万个，因此无法添加到hosts，所以没法播放。</h4>
+<h4>5.已经应网友要求添加pornhub，博讯等网站，下一步找到可用更好速度ip时将继续跟进调整。</h4>
 
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966"></a>
 
@@ -17,7 +18,7 @@
 **这里不排斥任何小白，因为再厉害的人那都是从小白过来的，有什么问题无论确不确定或者是不知道怎么说合适的话，你就按你的意思直说就行（请注意你的言行），如果需要帮助请尽可能提供有关情况更详细信息**
 
 
-#### 近期说明更新在：2017年6月16日
+#### 近期说明更新在：2017年6月21日
 
 ## 简介
 
