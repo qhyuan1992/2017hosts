@@ -1,5 +1,11 @@
-#### 近期将对hosts进行整理，并且对可以用官方ip的网站全部启用官方ip，youtube等条目将去重以及添加更多地址，以及添加更多社交平台，争取做github上的ipv4版本hosts排行第一。
-#### 为了能让你少费点心，不用每次上网都提心吊胆需要加https，建议在浏览器安装httpseverywhere插件，chrome点此下载：https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et
+#### 置顶公告：
+
+##### 近期将对hosts进行整理，并且对可以用官方ip的网站全部启用官方ip，youtube等条目将去重以及添加更多地址，以及添加更多社交平台，争取做github上的ipv4版本hosts排行第一。
+##### 电信的朋友们请注意，因为电信存在恶心的非商业CN1无厘头限速问题，所以如果你觉得hosts播放youtube视频一段时间后速度变慢的话建议重启路由器重新拨号更换一个外网ip试试，一般情况下是立马可以好转的。
+##### 有人发邮件问我，说可以不可以拿你这里hosts以我的名义去分享给别人使用，我在这里回答吧，可以，但是最好不要进行较大程度的删改就可以了。
+##### 为了能让你少费点心，不用每次上网都提心吊胆需要加https，建议在浏览器安装httpseverywhere插件，chrome点此下载：https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et
+
+
 <h2>友情提示：</h2>
 <h4><strong>1.因twitter上一些不可描述内容的原因，各地运营商开始干扰https的twitter连接，方式和当年干扰Google是一模一样的，遇到打不开这个问题你可以使用赛风暂时翻墙上推。</strong></h4>
 <h4>2.最近因为youtube上的一些内容的原因，导致youtube被攻击，随后youtube视频服务器就屏蔽了来源是中国的ip，包括中国企业网络的AS，这就是为什么ipv6下看youtube看不了的原因。</h4>
