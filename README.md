@@ -1,17 +1,10 @@
-#### 置顶公告：
-
-##### 近期将对hosts进行整理，并且对可以用官方ip的网站全部启用官方ip，youtube等条目将去重以及添加更多地址，以及添加更多社交平台，争取做github上的ipv4版本hosts排行第一。
-##### 电信的朋友们请注意，因为电信存在恶心的非商业CN1无厘头限速问题，所以如果你觉得hosts播放youtube视频一段时间后速度变慢的话建议重启路由器重新拨号更换一个外网ip试试，一般情况下是立马可以好转的。
-##### 有人发邮件问我，说可以不可以拿你这里hosts以我的名义去分享给别人使用，我在这里回答吧，可以，但是最好不要进行较大程度的删改就可以了。
-##### 为了能让你少费点心，不用每次上网都提心吊胆需要加https，建议在浏览器安装httpseverywhere插件，chrome点此下载：https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et
-
-
 <h2>友情提示：</h2>
 <h4><strong>1.因twitter上一些不可描述内容的原因，各地运营商开始干扰https的twitter连接，方式和当年干扰Google是一模一样的，遇到打不开这个问题你可以使用赛风暂时翻墙上推。</strong></h4>
 <h4>2.最近因为youtube上的一些内容的原因，导致youtube被攻击，随后youtube视频服务器就屏蔽了来源是中国的ip，包括中国企业网络的AS，这就是为什么ipv6下看youtube看不了的原因。</h4>
 <h4>3.经过25天的整理测试添加，ipv6hosts终于上线了，不过ipv6hosts部分服务还是没有找到ipv6地址（我尽力了），所以只能用ipv4代替（Twitter、Tumblr、XDA等等），请校园网用户在使用时注意自己的流量。</h4>
 <h4>4.绝大多数网站均需要以https方式打开，置顶提醒！tumblr网页版播放视频都是从用户的子域名获取文件的，这个域名数量大约有几百万个，因此无法添加到hosts，所以没法播放。</h4>
 <h4>5.已经应网友要求添加pornhub，博讯等网站，下一步找到可用更好速度ip时将继续跟进调整。</h4>
+<h4> 为了能让你少费点心，不用每次上网都提心吊胆需要加https，建议在浏览器安装httpseverywhere插件，chrome点此下载：https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et </h4>
 
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966"></a>
 
@@ -155,6 +148,7 @@ telegram：<br />
 #### Mi chat：349395816
 
 #### 有什么事情需要及时协商或者是有兴趣骚扰一下都可以 O(∩_∩)O
+
 #### 做hosts累不累啊？
 * 做hosts累的地方就在于抓包，我不像其他更新hosts的人那样，别人提问题我才会更新，而是我自己找到问题的时候我自己就修了（github上这么努力的更新hosts的人不超过4个），我在17年4月的时候为了解决手机hosts的facebook和ins显示图片这个问题，我拿着手机一直刷趴在电脑跟前三十多个小时没睡觉，然后赶在网友提出这个问题2小时之后解决掉了这个问题，给了他一个满意的答复。
 * 总之，各位热心的分享是我更新的最大动力，这比捐款对我的激励作用都大，分享无需注明来源。
