@@ -9,6 +9,7 @@
 <h4>4.绝大多数网站均需要以https方式打开，置顶提醒！tumblr网页版播放视频都是从用户的子域名获取文件的，这个域名数量大约有几百万个，因此无法添加到hosts，所以没法播放。</h4>
 <h4>5.已经应网友要求添加pornhub，博讯等网站，下一步找到可用更好速度ip时将继续跟进调整。</h4>
 <h4>6.为了能让你少费点心，不用每次上网都提心吊胆需要加https，建议在浏览器安装httpseverywhere插件，chrome点此下载：https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et </h4>
+<h4>7.本处提供的手机版hosts与安卓4.x系统谷歌服务7.x（2017.4发布的以前的版本的谷歌套件）可能存在兼容性问题，这个暂时还没有办法解决，不过问题不大。</h4>
 
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966"></a>
 
