@@ -1,10 +1,5 @@
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966"></a>
 
-<h2>更新预告：</h2>
-<h4>1.有网友向我反馈，目前Hosts里支持的各项服务还是会存在某些页面打不开的情况，经过检查是因为Hosts内还缺少某些网页元素的域名，近期会排查调整。</h4>
-<h4>2.有47位给我发邮件的+github三位网友向我反馈，他们使用hosts时发现youtube视频速度始终上不去，因为这个不太好查所以会往后延迟点在顾及再修复。</h4>
-<h4>3.最近有人向我反馈，他们在使用时steam会打不开，在这里提醒各位，如果你那里可以裸连steam的话，那其实就可以删除hosts内对应条目了，本处hosts的steam相关条目的一个作用无非就是将其导向香港cdn而已。</h4>
-
 <h2>友情提示：</h2>
 <h4><strong>1.因twitter上一些不可描述内容的原因，各地运营商开始干扰https的twitter连接，方式和当年干扰Google是一模一样的，遇到打不开这个问题你可以使用赛风暂时翻墙上推。</strong></h4>
 <h4>2.最近因为youtube上的一些内容的原因，导致youtube被攻击，随后youtube视频服务器就屏蔽了来源是中国的ip，包括中国企业网络的AS，这就是为什么ipv6下看youtube看不了的原因。</h4>
@@ -13,6 +8,9 @@
 <h4>5.已经应网友要求添加pornhub，博讯等网站，下一步找到可用更好速度ip时将继续跟进调整。</h4>
 <h4>6.为了能让你少费点心，不用每次上网都提心吊胆需要加https，建议在浏览器安装httpseverywhere插件，chrome点此下载：https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et </h4>
 <h4>7.有人向我反馈，在deepin社区看到有人拿着这边hosts怎么怎么样的，不过我想说，我还是那句话，只要是正常使用，从这里拿的hosts不必要写明来源，这个人的软件其实还是挺好用的。帖子链接：https://bbs.deepin.org/forum.php?mod=viewthread&tid=140287&extra=</h4>
+<h4>8.有网友向我反馈，目前Hosts里支持的各项服务还是会存在某些页面打不开的情况，经过检查是因为Hosts内还缺少某些网页元素的域名，近期会排查调整。</h4>
+<h4>9.有47位给我发邮件的+github三位网友向我反馈，他们使用hosts时发现youtube视频速度始终上不去，因为这个不太好查所以会往后延迟点在顾及再修复。</h4>
+<h4>10.最近有人向我反馈，他们在使用时steam会打不开，在这里提醒各位，如果你那里可以裸连steam的话，那其实就可以删除hosts内对应条目了，本处hosts的steam相关条目的一个作用无非就是将其导向香港cdn而已。</h4>
 
 **请你花大约两到三分钟时间仔细看看readme吧，应该对你了解这个项目有帮助**
 
